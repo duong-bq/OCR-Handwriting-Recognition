@@ -1,6 +1,3 @@
-# USAGE
-# python test_handwriting.py --model handwriting.model --image images/umbc_address.png
-
 # import the necessary packages
 from tensorflow.keras.models import load_model
 from imutils.contours import sort_contours
